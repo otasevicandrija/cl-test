@@ -1,0 +1,14 @@
+{
+    "english": {
+            "firstNamePlaceholder": "First Name",
+            "lastNamePlaceholder": "- Select -",
+            "errorMessage": "Something went wrong...",
+            "label": "lblEnglish"
+        },
+    "french": {
+        "firstNamePlaceholder": "sdgsrrrtrwtret",
+        "lastNamePlaceholder": " - ertertertretert - ",
+        "errorMessage": "Seertertert....",
+        "label": "lblFrench"
+    }    
+}
